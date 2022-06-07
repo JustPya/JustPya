@@ -1,9 +1,12 @@
-### Hi there 👋
+I'm Pya or JustPya 😜, I like coding, eating, cats and the color Blue 
 
+- 🌱 I’m currently learning Design Patterns, Unit testing and Web servers
+- 📫 How to reach me: @JustPya everywhere
+- ⚡ Fun fact: I coding 💻, the color Blue 🔹, and cats 🐈
 <!--
 **JustPya/JustPya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you 💻started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
