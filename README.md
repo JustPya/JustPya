@@ -1,4 +1,4 @@
-I'm Pya or JustPya 😜, I like coding, eating, cats and the color Blue 
+I'm Pya or JustPya 😜
 
 - 🌱 I’m currently learning Design Patterns, Unit testing and Web servers
 - 📫 How to reach me: @JustPya everywhere
