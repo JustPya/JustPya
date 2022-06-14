@@ -2,7 +2,7 @@ I'm Pya or JustPya 😜
 
 - 🌱 I’m currently learning Design Patterns, Unit testing and Web servers
 - 📫 How to reach me: @JustPya everywhere
-- ⚡ Fun fact: I love coding 💻, the color Blue 🔹, and cats 🐈
+- ⚡ Facts: I love coding 💻, the color Blue 🔹, and cats 🐈
 <!--
 **JustPya/JustPya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
