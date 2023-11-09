@@ -1,6 +1,6 @@
 I'm Pya or JustPya 😜
 
-- 🌱 I’m currently learning Design Patterns, Unit testing and React
+- 🌱 I’m currently learning Design Patterns, AWS and Web Components
 - 📫 How to reach me: @JustPya everywhere
 - ⚡ Facts: I love coding 💻, the color Blue 🔹, and cats 🐈
 <!--
